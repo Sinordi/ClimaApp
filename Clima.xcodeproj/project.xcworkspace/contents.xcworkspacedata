@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Clima.xcodeproj">
+      location = "group:/Users/sergeykrivosapko/Desktop/Swift/Apps/Angela course/Clima-iOS13/WeatherManager.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sergeykrivosapko/Desktop/Swift/Apps/Angela course/Clima-iOS13/WeatherViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
